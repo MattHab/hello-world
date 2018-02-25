@@ -1,2 +1,4 @@
 # hello-world
-My playground.
+My Playground.
+
+I finally have my own playground for learning python. YAY!
